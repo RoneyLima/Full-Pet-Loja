@@ -1,0 +1,48 @@
+<?php
+
+        include_once ('./php/includes/header.php')
+       
+?>
+<div class="conteudo-lojas conteiner conteiner-fluid ">
+
+  <h2>Conheça nossas lojas</h2><br><br>
+
+  <img src="./imagens/mapa.jpg" alt="Mapa">
+
+
+  <div class="card" style="width: 25rem;">
+    <div class="card-body">
+      <h5 class="card-title">Loja 1</h5>
+      <h6 class="card-subtitle mb-1 text-muted">Tatuapé</h6>
+      <p class="card-text">Praça Heitor Levi, 7</p>
+      <p class="card-text">(11)1234-5678</p>    
+      <a href="https://www.google.com.br/maps" class="gotoGoogleMaps">Ver localização</a>
+    </div>
+  </div>
+
+    <div class="card" style="width: 25rem;">
+      <div class="card-body">
+        <h5 class="card-title">Loja 2</h5>
+        <h6 class="card-subtitle mb-1 text-muted">Vila Carrão</h6>
+        <p class="card-text">R. Lutécia, 599</p>
+        <p class="card-text">(11)8765-4321</p>    
+        <a href="https://www.google.com.br/maps" class="gotoGoogleMaps">Ver localização</a>
+      </div>
+    </div>
+    <div class="card" style="width: 25rem;">
+        <div class="card-body">
+          <h5 class="card-title">Loja 2</h5>
+          <h6 class="card-subtitle mb-1 text-muted">Vila Formosa</h6>
+          <p class="card-text">R. Cabinari,531</p>
+          <p class="card-text">(11)1357-2468</p>    
+          <a href="https://www.google.com.br/maps" class="gotoGoogleMaps">Ver localização</a>
+        </div>
+    </div>        
+  </div>
+</div>
+
+
+
+
+
+         
